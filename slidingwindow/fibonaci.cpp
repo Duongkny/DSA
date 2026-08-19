@@ -16,5 +16,6 @@ int main() {
     for (int i = 0; i < n; i++) {
         std::cout << fib[i] << " ";
     }
+    cout<<"Hello world!";
     return 0;
 }
